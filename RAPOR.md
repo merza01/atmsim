@@ -43,7 +43,7 @@ bakiye , islem sayisi , hata mesaji , sonuc mesaji , son bakiye
 
 ## 4. Akış Şeması
 
-![Akış Şeması](docs/akis-semasi.png)
+![Akış Şeması](docs/atmsim.pdf)
 
 ## 5. Test Senaryoları (en az 8)
 
