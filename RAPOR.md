@@ -1,22 +1,21 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Ad Soyad:** Merza Züleyha Kulus
+**Numara:** 690
 
 ## 1. Algoritma Açıklaması
-<!-- Programın nasıl çalıştığını adım adım, kendi cümlelerinizle yazın. -->
 
 
 ## 2. Girdi - İşlem - Çıktı
 
 **Girdiler:**
--
+ tus - cekme/yatirma 
 
 **İşlemler:**
--
+bakiye-cekme bakiye+yatirma 
 
 **Çıktılar:**
--
+bakiye , islem sayisi
 
 ## 3. Sözde Kod (Pseudocode)
 
