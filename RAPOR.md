@@ -4,7 +4,7 @@
 **Numara:** 690
 
 ## 1. Algoritma Açıklaması
-
+Basit atm simulasyonudur. Kullanicidan tus girmesini isteyip bakiye goruntuleme,para cekme,para yatirma ve cikis islemlerini yapar ve hesaplamalari yapar. Kullanici ekrana cikis icin olan 4 tusuna basana kadar programi surdurur. İslemler bittiginde cikis yaparken ekrana islem sayisi ve bakiyeyi gosterir.
 
 ## 2. Girdi - İşlem - Çıktı
 
@@ -12,10 +12,10 @@
  tus - cekme/yatirma 
 
 **İşlemler:**
-bakiye-cekme bakiye+yatirma 
+para cekme (bakiye-cekme) para yatirma( bakiye+yatirma) bakiye goruntuleme,islem sayisi 
 
 **Çıktılar:**
-bakiye , islem sayisi
+bakiye , islem sayisi , hata mesaji , sonuc mesaji , son bakiye
 
 ## 3. Sözde Kod (Pseudocode)
 
